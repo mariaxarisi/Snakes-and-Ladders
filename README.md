@@ -3,6 +3,4 @@ A Java program that generates a board and plays the well-known game of snakes an
 
 ## Boards
 At first, the program prints 3 different tables. The first one includes only the snakes in the game, the second one the ladders and the third the presents. 
-<div>
-  <img src="https://raw.githubusercontent.com/mariaxarisi/Snakes-and-Ladders/imgs/board-separate.png"/>
-</div>
+![](imgs/board-separate.png)
